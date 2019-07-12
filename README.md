@@ -2,6 +2,9 @@
 
 A static responsive website made with Bootstrap and Scroll Animation about the famous Japanese artist of the Edo Period Katsushika Hokusai (葛飾 北斎).
 
+## Check it Out
+[Hokusai Website](https://shakilbinkarim.github.io/hokusaiwebsite/)
+
 ## Built With
 
 - HTML5
